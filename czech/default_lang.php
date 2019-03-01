@@ -1025,11 +1025,11 @@ $lang["choose_ticket_types"] = "Výběr typů vstupenek";
 $lang["can_manage_all_projects"] = "Může spravovat všechny projekty";
 $lang["show_most_recent_ticket_comments_at_the_top"] = "Zobrazit poslední komentáře o lístku nahoře";
 
-$lang["new_event_added_in_calendar"] = "Nová událost přidán kalendář";
+$lang["new_event_added_in_calendar"] = "Nová událost přidána do kalendáře";
 $lang["notification_new_event_added_in_calendar"] = "Přidána nová událost.";
 
-$lang["todo"] = "Až k činit";
-$lang["add_a_todo"] = "Přidat a udělat ...";
+$lang["todo"] = "Seznam úkolů";
+$lang["add_a_todo"] = "Přidat úkol ...";
 
 /* Version 1.9 */
 
@@ -1103,18 +1103,18 @@ $lang["enable_email_notification"] = "Povolit upozornění e-mailem";
 
 /* Version 2.0.3 */
 
-$lang["show_in_estimate"] = "Show in estimate";
-$lang["mentioned_members"] = "Mentioned members";
-$lang["all"] = "All";
+$lang["show_in_estimate"] = "Zobrazit odhad";
+$lang["mentioned_members"] = "Zmínění členové";
+$lang["all"] = "Všichni";
 
-$lang["confirmed"] = "Confirmed";
-$lang["confirm"] = "Confirm";
+$lang["confirmed"] = "Potvrzený";
+$lang["confirm"] = "Potvrdit";
 
-$lang["confirmed_by"] = "Confirmed by";
-$lang["confirm_event"] = "Confirm event";
-$lang["reject_event"] = "Reject event";
-$lang["event_status"] = "Event status";
+$lang["confirmed_by"] = "Potvrdil";
+$lang["confirm_event"] = "Potvrdit událost";
+$lang["reject_event"] = "Odmítnout událost";
+$lang["event_status"] = "Stav události";
 
-$lang["specific_client_contacts"] = "Specific client contacts";
-$lang["choose_client_contacts"] = "Choose client contacts";
-$lang["invitations_sent"] = "The invitations has been sent.";
+$lang["specific_client_contacts"] = "Konkrétní kontakty klienta";
+$lang["choose_client_contacts"] = "Vybrat kontakty klienta";
+$lang["invitations_sent"] = "Pozvánky byly odeslány.";
